@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/release-gate.png" width="760" alt="release-gate: real output of the free version on a made-up sample">
 
+**Install in Claude Code:** `/plugin install release-gate --marketplace vivaminima/vivaminima`
+
 A pre-release check for the ZIP or folder you are about to ship. It reads the package and lists what you would not want a buyer to find: a key left in the code, a `.env`, a path from your own machine, a missing changelog.
 
 ## New to this? Start here
